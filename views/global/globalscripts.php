@@ -1,1 +1,1 @@
-<script src="../utils/config.js"></script>
+<script src="../utils/js/config.js"></script>
